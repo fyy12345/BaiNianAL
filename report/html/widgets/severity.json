@@ -1,0 +1,31 @@
+[ {
+  "uid" : "37654c908a9c9b80",
+  "name" : "TestLogin.test_login[itheima-123456-itheima-None]",
+  "time" : {
+    "start" : 1541158767030,
+    "stop" : 1541158797635,
+    "duration" : 30605
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "41230eb94176bbe0",
+  "name" : "TestLogin.test_login[15836607637-284825-lq_1101192314_vij-None]",
+  "time" : {
+    "start" : 1541158646418,
+    "stop" : 1541158736391,
+    "duration" : 89973
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "55a8f44adde862d6",
+  "name" : "TestLogin.test_login[ 15836607637 -284825-lq_1101192314_vij-None]",
+  "time" : {
+    "start" : 1541158736402,
+    "stop" : 1541158767017,
+    "duration" : 30615
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

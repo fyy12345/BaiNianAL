@@ -1,0 +1,44 @@
+#BN_login_test001:
+#  username: "15836607637"
+#  password: "284825"
+#  except_result: "lq_1101192314_vij"
+#
+#BN_login_test002:
+#  username: " 15836607637 "
+#  password: "284825"
+#  except_result: "lq_1101192314_vij"
+#
+#BN_login_test003:
+#  username: "itheima"
+#  password: "123456"
+#  except_result: "itheima"
+
+#BN_login_test004:
+#  username: " itheima "
+#  password: "123456"
+#  except_result: "itheima"
+#
+BN_login_test005:
+  username: "15836607636"
+  password: "284825"
+  except_toast: "此用户不存在"
+
+BN_login_test006:
+  username: "itheimam"
+  password: "123456"
+  except_toast: "此用户不存在"
+
+BN_login_test007:
+  username: "15836607637"
+  password: "284824"
+  except_toast: "登录密码错误"
+
+BN_login_test008:
+  username: "itheima"
+  password: "123457"
+  except_toast: "登录密码错误"
+
+
+
+
+

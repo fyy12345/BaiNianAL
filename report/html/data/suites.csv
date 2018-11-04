@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"passed","test_login.TestLogin.test_login[itheima-123456-itheima-None]","30605",""
+"passed","test_login.TestLogin.test_login[ 15836607637 -284825-lq_1101192314_vij-None]","30615",""
+"passed","test_login.TestLogin.test_login[15836607637-284825-lq_1101192314_vij-None]","89973",""

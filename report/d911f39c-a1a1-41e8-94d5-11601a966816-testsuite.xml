@@ -1,0 +1,149 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1541159223455" stop="1541159290160">
+  <name>test_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1541159223455" status="passed" stop="1541159276766">
+      <name>TestLogin.test_login[15836607636-284825-None-\u6b64\u7528\u6237\u4e0d\u5b58\u5728]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="17112-MainThread"/>
+        <label name="host" value="SKY-20180731WQZ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1541159223468" status="passed" stop="1541159270493">
+          <name>开始执行初始化函数</name>
+          <title>开始执行初始化函数</title>
+          <attachments/>
+          <steps>
+            <step start="1541159263891" status="passed" stop="1541159267164">
+              <name>点击我</name>
+              <title>点击我</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1541159267164" status="passed" stop="1541159270493">
+              <name>点击已有用户，请登录</name>
+              <title>点击已有用户，请登录</title>
+              <attachments/>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+        <step start="1541159270496" status="passed" stop="1541159272834">
+          <name>输入用户名</name>
+          <title>输入用户名</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1541159272834" status="passed" stop="1541159274045">
+          <name>输入密码</name>
+          <title>输入密码</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1541159274045" status="passed" stop="1541159274761">
+          <name>登录按钮</name>
+          <title>登录按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1541159276774" status="passed" stop="1541159281324">
+      <name>TestLogin.test_login[itheimam-123456-None-\u6b64\u7528\u6237\u4e0d\u5b58\u5728]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="17112-MainThread"/>
+        <label name="host" value="SKY-20180731WQZ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1541159276787" status="passed" stop="1541159278125">
+          <name>输入用户名</name>
+          <title>输入用户名</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1541159278125" status="passed" stop="1541159279251">
+          <name>输入密码</name>
+          <title>输入密码</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1541159279252" status="passed" stop="1541159279846">
+          <name>登录按钮</name>
+          <title>登录按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1541159281331" status="passed" stop="1541159285507">
+      <name>TestLogin.test_login[15836607637-284824-None-\u767b\u5f55\u5bc6\u7801\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="17112-MainThread"/>
+        <label name="host" value="SKY-20180731WQZ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1541159281342" status="passed" stop="1541159282060">
+          <name>输入用户名</name>
+          <title>输入用户名</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1541159282060" status="passed" stop="1541159283227">
+          <name>输入密码</name>
+          <title>输入密码</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1541159283227" status="passed" stop="1541159283828">
+          <name>登录按钮</name>
+          <title>登录按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1541159285515" status="passed" stop="1541159290160">
+      <name>TestLogin.test_login[itheima-123457-None-\u767b\u5f55\u5bc6\u7801\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="17112-MainThread"/>
+        <label name="host" value="SKY-20180731WQZ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1541159285527" status="passed" stop="1541159286701">
+          <name>输入用户名</name>
+          <title>输入用户名</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1541159286701" status="passed" stop="1541159287809">
+          <name>输入密码</name>
+          <title>输入密码</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1541159287809" status="passed" stop="1541159288663">
+          <name>登录按钮</name>
+          <title>登录按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

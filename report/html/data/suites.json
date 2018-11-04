@@ -1,0 +1,45 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_login",
+    "children" : [ {
+      "name" : "TestLogin.test_login[15836607637-284825-lq_1101192314_vij-None]",
+      "uid" : "41230eb94176bbe0",
+      "parentUid" : "7db21133bf389fa43eef71e3fe0b0e68",
+      "status" : "passed",
+      "time" : {
+        "start" : 1541158646418,
+        "stop" : 1541158736391,
+        "duration" : 89973
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "TestLogin.test_login[ 15836607637 -284825-lq_1101192314_vij-None]",
+      "uid" : "55a8f44adde862d6",
+      "parentUid" : "7db21133bf389fa43eef71e3fe0b0e68",
+      "status" : "passed",
+      "time" : {
+        "start" : 1541158736402,
+        "stop" : 1541158767017,
+        "duration" : 30615
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "TestLogin.test_login[itheima-123456-itheima-None]",
+      "uid" : "37654c908a9c9b80",
+      "parentUid" : "7db21133bf389fa43eef71e3fe0b0e68",
+      "status" : "passed",
+      "time" : {
+        "start" : 1541158767030,
+        "stop" : 1541158797635,
+        "duration" : 30605
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7db21133bf389fa43eef71e3fe0b0e68"
+  } ]
+}
